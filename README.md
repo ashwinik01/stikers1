@@ -1,26 +1,28 @@
-# stikers1
-MIIEowIBAAKCAQEAvhWnF5nBe1pU1cvqkMrPIUo1t4mznFCBBLNdv5kisQwFfygd
-y581I4I3H69xiItdcH/JJQ24O4NoZGZ24zBdj6nd1HEz43741lftNsy0/va8TNUG
-a93twU773WwHeawq+DgVRnCz3Km9I5JVwfSQjutrBVK+rYpt678K7Khb5E5QvPOm
-cep839hqI383uya68sOPJngpzxnkh0OO/bu5lyNRCi16WLvJic45myIGtMT8nvv1
-fH4ne+Vb6KVcVtifHWhF0KLJAjjdzkulqJm1rAQu5+3bViD1i0tyVXPZvttoXqXM
-2ESTmrYnCmR2xL0sZNp+qDhAINXI62V0n4YufQIDAQABAoIBAG7sa8mV7BZzrDXm
-/UbpUt32VEp6jNmXEPMRSI/aaSgv/7UoT9rXWUcTYd+XngU0bp6Ls3FwBCaWlICi
-WpZRTwfa9JxYQxNqsQND5CWqZ6Sxj0i2tzyTEX9Q/CFGPUZ/dcPL1n54nj0SwFDV
-wD2i3gjI0HcWxja3JVYA8fsQdC9Rks3oKtPaoxiInHeFrUMKKzdZrChofQtdWOD9
-uvsJQQmC9IqP+pUILFmaCUOpZgJ2Rhm3IxCUliUHStB/v7u6SwYBWOH2n16l9YRB
-xxCuJDGPq2Iptx+3/WAF/FahPOQNizR8bUUJNDat0Xwwq8XBVn3+qWEwwaygop+F
-hsESWPECgYEA3aE+LcDgZNZmJBrKVHm/dGMJUTuZDJA3g4z2wLOdjyj+D71ZNvdl
-SQvis2UmjXmLCgb+YOEeqTWhRgtZNPeGwzDnY3WvO5TwVygrDmEODM83b+6M+Ou7
-UkMr5XZHDcFt/SbPup/hKXR4O73A71fL30tfsnoVDA9NtCEmIw22y/sCgYEA25AO
-F98VWLtfA+yvZLyZ3bm0mHVE/C3P9KfJlF5+DFDu/ontXvPBHMuGqzQCh/VymceW
-yMtNq1p/opIfJImjXzOri4AXnCvxPKdPZiFNWOm7teKO9NPYOrk6G+3IqO6oaPtu
-66CHO1jA50vf6Gqvno4NXttp86Mzh4WRPHrbLecCgYEAiRpcerVcm0S+fwtLqyJ9
-u6QgeW4i6dC1Zt3nL6Jtj8hOErKR5Bz7PUrq/QtP5CkSSCu3ZXseGpMgp1IR52BQ
-r6MrIS4GLxed7mzc5dJIfMgbhVTPRJWfle4T06ltnybPwdEmpE6PXbO9RUfHeMiZ
-SBM6qhA3wPQen5X6H6k2Mc0CgYBXss1+SXPcUlMcXTCdexu2TZPOBaE9XQsgPNiu
-c6PDRZyAfRUcBR7QYpby0T5lketpcyhOIa5vUCGFDPp1fKiNwTS27r3/einMQUPc
-llavugRpHQpezjMjGZMVTsAEgfcwn6VpZmA9mzDJ8iuISPzGxxSeG+PRFhHiAr7F
-OolLZwKBgA2ogwCh0gQF0wZTJzfdw0l2TFSZwQsaQqgoWMoEhfBI8VszeHEHhGOc
-7v01SiSIxqNPxHRP05gtfD3gKG6SmnA7PijN0zfkmpNP9+Uv2kzPXg0z0bFIdZNW
-cfcVUIXZ0XkfVLCebcxinWxkHiLA8gbBMXhurjLMnXBQT2rgocen
+export vdsiuser=v548847
+export http_proxy=proxy.ebiz.verizon.com:80
+export https_proxy=proxy.ebiz.verizon.com:80
+export ftp_proxy=proxy.ebiz.verizon.com:80
+
+curl -v --proxy http://proxy.ebiz.verizon.com:80 --proxy-ntlm --proxy-user "VDSI\\v548847" http://curl.haxx.se
+
+export vdsiuser=v543146
+export http_proxy=proxy.ebiz.verizon.com:80
+export https_proxy=proxy.ebiz.verizon.com:80
+export ftp_proxy=proxy.ebiz.verizon.com:80
+
+curl -v --proxy http://proxy.ebiz.verizon.com:80 --proxy-ntlm --proxy-user "VDSI\\v543146" http://curl.haxx.se
+
+export vdsiuser=v400610
+export http_proxy=proxy.ebiz.verizon.com:80
+export https_proxy=proxy.ebiz.verizon.com:80
+export ftp_proxy=proxy.ebiz.verizon.com:80
+
+curl -v --proxy http://proxy.ebiz.verizon.com:80 --proxy-ntlm --proxy-user "VDSI\\v400610" http://curl.haxx.se
+
+Ashok: 113.128.165.31 / Hanu$639
+Pavan: 113.128.165.30 / pa1Ind!
+Ashwini: 113.128.165.5  / Ak0101198!
+
+
+113.128.165.40
+Administarator/sacsb4u!
